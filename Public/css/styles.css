@@ -19,7 +19,7 @@ body {
 }
 
 .main-content {
-    flex-grow: 1;
+  flex-grow: 1;
 }
 
 h1 {
@@ -32,18 +32,17 @@ header {
 }
 
 header a {
-    color: #888888;
-    margin-right: 16px;
-    text-decoration: none;
-
+  color: #888888;
+  margin-right: 16px;
+  text-decoration: none;
 }
 
 .portrait {
-    width: 250px;
-    border-radius: 4px;
+  width: 250px;
+  border-radius: 4px;
 }
 
-input[type=text] {
+input[type="text"] {
   border: 2px solid #cccccc;
   padding: 8px;
   background-color: transparent;
@@ -64,4 +63,3 @@ footer {
   margin-top: 16px;
   padding: 16px 0;
 }
-
